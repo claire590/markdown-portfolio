@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. This is a list.
+  2. With an indent.
+  
+  * Here is another list.
+    * Whoosh!
+    
+- One more list.
+  - Bash!
