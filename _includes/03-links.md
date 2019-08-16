@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Click here for fun...](http://google.com)
